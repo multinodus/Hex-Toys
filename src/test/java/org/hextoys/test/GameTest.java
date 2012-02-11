@@ -23,4 +23,8 @@ import junit.framework.TestCase;
  * @author jreznot
  */
 public class GameTest extends TestCase {
+
+    public void testStartup() {
+
+    }
 }
