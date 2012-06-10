@@ -1,6 +1,23 @@
-HEXTOYS: OPEN SERVER FOR AI BATTLE WITH HEXAGONAL FIELD
+<img src="http://jcorp.ru/images/hextoys.png"/>
 
-Bundle:
+HexToys is Open Server for AI Tournaments.
+
+## Applications
+
  - Server
  - Map editor
  - Battle viewer
+ 
+## Downloading
+
+
+## Building
+
+### Installing from source
+
+
+## Contributing
+
+### Contributing Code
+
+### Contributing Documentation
